@@ -1,11 +1,11 @@
 import re
 
 # input file
-filename = 'biblio.txt'
+filename = 'inputfile.txt'
 
 file_input = open(filename, 'r')
 # output file
-file_output = open('outfile.txt', 'w')
+file_output = open('outputfile.txt', 'w')
 
 while True:
     # Get next line from file
