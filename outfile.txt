@@ -1,0 +1,20 @@
+@article{yang2020covid,
+  title={{COVID}-19: immunopathogenesis and {I}mmunotherapeutics},
+  author={Yang, Li and Liu, Shasha and Liu, Jinyan and Zhang, Zhixin and Wan, Xiaochun and Huang, Bo and Chen, Youhai and Zhang, Yi},
+  journal={Signal transduction and targeted therapy},
+  volume={5},
+  number={1},
+  pages={1--8},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+
+@article{gharehchopogh2019comprehensive,
+  title={{A} comprehensive survey: {W}hale {O}ptimization {A}lgorithm and its applications},
+  author={Gharehchopogh, Farhad Soleimanian and Gholizadeh, Hojjat},
+  journal={Swarm and Evolutionary Computation},
+  volume={48},
+  pages={1--24},
+  year={2019},
+  publisher={Elsevier}
+}
